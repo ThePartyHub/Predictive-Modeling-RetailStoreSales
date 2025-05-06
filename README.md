@@ -1,4 +1,4 @@
-# Predictive-Modeling-IRI/Neilson Data
+# Predictive-Modeling
 Exploratory and explanatory analysis done to transform a retail store's scanner data into meaningful insights.
 
 This study utilized a retail stores' scanner data to analyze sales performance, and predict sales of future weeks. 
@@ -18,4 +18,4 @@ Data Structure:
 - Weekly sales of 124 stores across 104 weeks
 - Variables of 5 brands: Unit Sales, UPCs(shelf depth), Discount, Promotional Efforts (Feature, Display and Both)
 
-*The data is said to be of IRI/Neilson type. Source not disclosed.
+*Source of data is not disclosed.
